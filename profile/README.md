@@ -1,35 +1,12 @@
-<div align="center">
+# NEWPOS Tech Developer Hub
 
-# NEWPOS Tech
-
-**Global Payment Products & Solutions Provider**
-
-[Official Website](https://www.newpostech.com) · [Developer Hub](https://github.com/newposhub)
-
-</div>
-
----
+Welcome to the official developer center of **NEWPOS Tech** 
 
 ## Overview
 
 NEWPOS Tech is a leading global provider of payment products and solutions. As a national high-tech enterprise, we integrate research and development, production, sales, technical support, and after-sales service into a unified operation.
 
 Our mission is to deliver secure, reliable, and technologically advanced electronic payment products and solutions to users worldwide, accelerating the industry's transition toward fully electronic and convenient payment.
-
-## Market Performance
-
-NEWPOS Tech has consistently ranked among the top POS shipment leaders in the Asia Pacific region.
-
-| Year | Asia Pacific POS Shipments |
-| :--: | :------------------------: |
-| 2019 | No. 2 |
-| 2020 | No. 2 |
-| 2021 | No. 2 |
-| 2022 | No. 2 |
-| 2023 | No. 2 |
-| 2024 | No. 3 |
-
-Ranked **second in Asia Pacific for five consecutive years (2019–2023)** and **third in 2024**.
 
 ## Developer Hub
 
@@ -47,10 +24,6 @@ This organization serves as the official developer center for NEWPOS Tech. Here 
 2. Refer to each repository's `README` for setup and usage instructions.
 3. Consult our technical documentation for API and integration details.
 4. For issues or feature requests, open an issue in the relevant repository.
-
-## Contributing
-
-We welcome contributions from the developer community. Please review the contribution guidelines provided in each repository before submitting issues or pull requests.
 
 ## Contact
 
